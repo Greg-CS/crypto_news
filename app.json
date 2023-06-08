@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "news_app",
-    "slug": "news_app",
+    "slug": "crypto-news",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3120f139-df12-481f-93c2-c1d7eceac5d0"
+      }
+    },
+    "owner": "streethippie466"
   }
 }
